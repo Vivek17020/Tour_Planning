@@ -16,7 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a simple streamlit app to demonstrate HERE Tour Planning. With the Tour Planning, you can dynamically optimize routes for multiple vehicles visiting a set of locations given real-life constraints such as limited capacity in a vehicle or delivery time windows.
+This is a simple streamlit app to demonstrate HERE Tour Planning. With the Tour Planning, you can dynamically optimize routes for multiple vehicles of Tourists visiting a set of locations given real-life constraints such as limited capacity in a vehicle or delivery time windows.
 
 ![Product Name Screen Shot](here_tpa_demo.gif)
 
@@ -50,24 +50,16 @@ Demonstrate HERE Tour Planning with simple multi-vehcile routing problems
 <!-- ROADMAP -->
 ## Roadmap
 - Routing with HERE Routing v8
-- Support for truck profile
+- Support for Bus profile
 
-<!-- CONTRIBUTING -->
-## Contributing
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+
 
 
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* Special thanks [@sackh](https://github.com/sackh) for his help in adding HERE maps to Folium
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
